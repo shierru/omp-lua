@@ -2,3 +2,6 @@
 	path = lib/omp-sdk
 	url = git@github.com:openmultiplayer/open.mp-sdk.git
 	branch = dev
+[submodule "lib/sol"]
+	path = lib/sol
+	url = git@github.com:ThePhD/sol2.git
