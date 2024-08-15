@@ -1,0 +1,4 @@
+[submodule "lib/omp-sdk"]
+	path = lib/omp-sdk
+	url = git@github.com:openmultiplayer/open.mp-sdk.git
+	branch = dev
